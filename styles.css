@@ -10,6 +10,7 @@
 
 body {
     background-color: #f7f5f4;
+    font-family: Arial, sans-serif;
 }
 
 .bio {
@@ -21,8 +22,13 @@ footer {
     background-color: #282e42;
 }
 
-link:hover {
+a:hover {
 
     color: #de533e;
 
 }
+a:visited {
+    color: #d1756b;
+}
+
+.manor_image
