@@ -1,0 +1,28 @@
+/* Secondary headings, subtle accents -- #d1756b */
+/* Main page background -- #f7f5f4 */
+/* Borders, secondary text, hover effects -- #c29996 */
+/* Main accents, links, important headings -- #de533e */
+/* Main background, header, footer -- #282e42 */
+
+.main_heading {
+    color: #de533e;
+}
+
+body {
+    background-color: #f7f5f4;
+}
+
+.bio {
+    color: #d1756b;
+}
+
+footer {
+    color: #d1756b;
+    background-color: #282e42;
+}
+
+link:hover {
+
+    color: #de533e;
+
+}
