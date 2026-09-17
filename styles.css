@@ -1,8 +1,8 @@
-/* Secondary headings, subtle accents -- #d1756b */
-/* Main page background -- #f7f5f4 */
-/* Borders, secondary text, hover effects -- #c29996 */
-/* Main accents, links, important headings -- #de533e */
-/* Main background, header, footer -- #282e42 */
+/* #d1756b */
+/* #f7f5f4 */
+/* #c29996 */
+/* #de533e */
+/* #282e42 */
 
 .main_heading {
     color: #de533e;
@@ -34,9 +34,10 @@ a:visited {
 img {
   padding: 10px;
   margin: 15px;
-  border: 10px solid #88C0D0;
+  border: 10px solid #c29996;
 }
 
 #meme{
     opacity: 0.8;
+    border: 10px solid #f7f5f4;
 }
