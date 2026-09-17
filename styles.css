@@ -9,8 +9,8 @@
 }
 
 body {
-    background-color: #f7f5f4;
     font-family: Arial, sans-serif;
+    font-size: medium;
 }
 
 .bio {
@@ -31,4 +31,12 @@ a:visited {
     color: #d1756b;
 }
 
-.manor_image
+img {
+  padding: 10px;
+  margin: 15px;
+  border: 10px solid #88C0D0;
+}
+
+#meme{
+    opacity: 0.8;
+}
